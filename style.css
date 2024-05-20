@@ -124,6 +124,14 @@ body {
     min-width: 400px;
 }
 
+#contact {
+  
+    background-color: #222831 !important;
+    font-family: "Poppins", sans-serif !important;
+  
+}
+
+
 table {
     width: 100%;
 }
@@ -458,4 +466,6 @@ hr {
     }
 
 }
+
+
 
